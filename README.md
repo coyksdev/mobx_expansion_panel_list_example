@@ -1,4 +1,4 @@
-# mysample
+# mobx_expansion_panel_list_example
 
 A new Flutter project.
 
